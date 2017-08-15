@@ -12,6 +12,6 @@ ICOs which looks promissing will be added here.
 
 **Help & Motivate my work by little generosity:**
 
-Bitcoin: 
+Bitcoin: 1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND
 
 Ethereum:
