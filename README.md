@@ -12,6 +12,6 @@ ICOs which looks promissing will be added here.
 
 **Help & Motivate my work by little generosity:**
 
-Bitcoin: 1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND
+Bitcoin: [1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND](https://tradeblock.com/bitcoin/address/1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND)
 
 Ethereum:
