@@ -14,4 +14,4 @@ ICOs which looks promissing will be added here.
 
 Bitcoin: [1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND](https://tradeblock.com/bitcoin/address/1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND)
 
-Ethereum:
+Ethereum: [0xe8D182b01dB66d7D1e6094169fAd087A09A92E95](https://tradeblock.com/ethereum/account/e8D182b01dB66d7D1e6094169fAd087A09A92E95)
